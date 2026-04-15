@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Abdul Khader, a beginner-to-intermediate developer from Kuwait.<br>🔭 I’m currently working on small web and app projects to improve my skills.<br>🌱 I’m currently learning JavaScript, React, and Python.<br>💬 Ask me about basic web development, GitHub, and deploying simple apps.<br>⚡ Fun fact: I enjoy learning new tech from YouTube tutorials and building side projects for practice.
+Hi, I’m Abdul Khader, a beginner-to-intermediate developer from Kuwait.<br>🔭 I’m currently working on small web and app projects to improve my skills.<br>🌱 I’m currently learning JavaScript, Ruby, React, and Python.<br>💬 Ask me about basic web development, GitHub, and deploying simple apps.<br>⚡ Fun fact: I enjoy learning new tech from YouTube tutorials and building side projects for practice.
 
 
 ## 🌐 Socials:
