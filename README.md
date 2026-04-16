@@ -1,6 +1,6 @@
 ![Claude 101 Certified](https://img.shields.io/badge/Claude-101%20Certified-0A7FF5?logo=anthropic&logoColor=white)
 
-[📄 View Claude 101 Certificate](https://github.com/AbdulKhaderS/AbdulKhaderS/blob/main/Claude%20101%20Certificate.pdf)
+[📄 View Claude 101 Certification (Anthropic)](https://github.com/AbdulKhaderS/AbdulKhaderS/blob/main/Claude%20101%20Certificate.pdf)
 
 # 💫 About Me:
 Hi, I’m Abdul Khader, a beginner-to-intermediate developer from Kuwait.<br>🔭 I’m currently working on small web and app projects to improve my skills.<br>🌱 I’m currently learning JavaScript, Ruby, React, and Python.<br>💬 Ask me about basic web development, GitHub, and deploying simple apps.<br>⚡ Fun fact: I enjoy learning new tech from YouTube tutorials and building side projects for practice.
