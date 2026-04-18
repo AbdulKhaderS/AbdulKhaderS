@@ -1,6 +1,8 @@
 ![Claude 101 Certified](https://img.shields.io/badge/Claude-101%20Certified-0A7FF5?logo=anthropic&logoColor=white)
 
 [📄 View Claude 101 Certification (Anthropic)](https://github.com/AbdulKhaderS/AbdulKhaderS/blob/main/Claude%20101%20Certificate.pdf)
+[📄 View Claude Code 101 Certification (Anthropic)](https://github.com/AbdulKhaderS/AbdulKhaderS/blob/main/Claude%20Code%20101%20Certificate.pdf)
+[📄 View Claude Cowork Certification (Anthropic)](https://github.com/AbdulKhaderS/AbdulKhaderS/blob/main/Claude%20Cowork%20Certificate.pdf)
 
 ✅ Completed the Claude 101 Certification – learned how to use AI for real-world tasks, better prompting, and productivity.
 
