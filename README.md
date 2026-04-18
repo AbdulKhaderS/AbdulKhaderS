@@ -2,7 +2,11 @@
 
 [📄 View Claude 101 Certification (Anthropic)](https://github.com/AbdulKhaderS/AbdulKhaderS/blob/main/Claude%20101%20Certificate.pdf)
 
-✅ Completed the Claude 101 Certification – learned how to use AI for real-world tasks, better prompting, and productivity. Excited to apply these skills in my projects.
+✅ Completed the Claude 101 Certification – learned how to use AI for real-world tasks, better prompting, and productivity.
+
+✅ Completed the Claude Code 101 Certification – practiced using Claude for coding help, refactoring, and building small tools.
+
+✅ Completed the Claude Cowork Certification – learned to use Claude as a daily work assistant for writing, planning, and task support.
 
 # 💫 About Me:
 Hi, I’m Abdul Khader, a beginner-to-intermediate developer from Kuwait.<br>🔭 I’m currently working on small web and app projects to improve my skills.<br>🌱 I’m currently learning JavaScript, Ruby, React, and Python.<br>💬 Ask me about basic web development, GitHub, and deploying simple apps.<br>⚡ Fun fact: I enjoy learning new tech from YouTube tutorials and building side projects for practice.
